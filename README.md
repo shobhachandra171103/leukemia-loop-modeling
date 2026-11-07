@@ -10,7 +10,7 @@ This project uses the biological homology tool **MODELLER** to clean up and pred
 ## Model Visualization
 Below is the structural overlay of the generated candidate models:
 
-![Structural Overlay of Loop Models](leukemia-model.png)
+![Structural Overlay of Loop Models](leukemia_model.png)
 
 ## Biological Interpretation of the Image:
 * **Conserved Core:** The highly structured alpha-helices (spirals at the bottom) align tightly across all models, showing structural stability.
